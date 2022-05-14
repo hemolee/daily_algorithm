@@ -1,0 +1,11 @@
+{
+  "name": "daily-algorithm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hemolee/daily_algorithm.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-fetch": "^2.3.0"
+  }
+}
